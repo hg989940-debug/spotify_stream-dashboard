@@ -75,3 +75,4 @@ It showcases practical data analytics skills applicable to business intelligence
 screenshots
 
 spotify_stream image (https://github.com/hg989940-debug/spotify_stream-dashboard/blob/main/spotify%20project%20image.png)
+spotify_stream powerbi dashbord (https://github.com/hg989940-debug/spotify_stream-dashboard/blob/main/spotify_stream%20project.pbix)
